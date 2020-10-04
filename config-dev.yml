@@ -1,1 +1,3 @@
-config: "qqq:"
+config: 
+  info: "lalala"
+  version: "1.0.0.1"
